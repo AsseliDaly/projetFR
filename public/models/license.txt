@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giza Pyramid Complex (from Civilization VI)
+* source:	https://sketchfab.com/3d-models/giza-pyramid-complex-from-civilization-vi-329c613267934db88066eb0c868d49b1
+* author:	ChrisCLP (https://sketchfab.com/ChrisCLP)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giza Pyramid Complex (from Civilization VI)" (https://sketchfab.com/3d-models/giza-pyramid-complex-from-civilization-vi-329c613267934db88066eb0c868d49b1) by ChrisCLP (https://sketchfab.com/ChrisCLP) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
